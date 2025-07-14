@@ -17,7 +17,7 @@ Open the project in **GitHub Codespaces** or clone it locally.
 ### 2️⃣ Install dependencies
 
 In the **Codespaces terminal**, run:
-```bash
+
 pip install yt-dlp
 
 3️⃣ Update main.py
@@ -29,7 +29,6 @@ with your actual playlist URL.
 4️⃣ Run the script
 In the terminal, run:
 
-```bash
 python main.py
 
 5️⃣ Get your URLs
