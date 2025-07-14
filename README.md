@@ -18,7 +18,6 @@ Open the project in **GitHub Codespaces** or clone it locally.
 
 In the **Codespaces terminal**, run:
 
-```bash
 pip install yt-dlp
 
 3️⃣ Update main.py
